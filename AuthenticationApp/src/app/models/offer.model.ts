@@ -1,0 +1,7 @@
+export interface Offer{
+    id:string;
+    price:number;
+    userid:string;
+    clientid:string;
+    vehicleid:string;
+}
